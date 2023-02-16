@@ -1,0 +1,19 @@
+{
+  "name": "node_http_restify",
+  "version": "1.0.0",
+  "description": "Primeiro servidor criado com restify",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "restify",
+    "node"
+  ],
+  "author": "Gabriel Neto",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "restify": "^11.0.0"
+  }
+}
